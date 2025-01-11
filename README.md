@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  💻 Desenvolvedor Web | 📚 Estudante de ADS | 🪄 Fã do universo de Harry Potter
+  💻 Desenvolvedor de Software | 📚 Estudante de ADS |
 </p>
 
 ---
